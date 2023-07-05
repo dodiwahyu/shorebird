@@ -1,6 +1,6 @@
 # FLUTTER CODE PUSH SHOREBIRD
 
-## PENGENALAN
+## A. PENGENALAN
 
 ### Apa itu Code Push
 
@@ -18,7 +18,7 @@ Shorebird adalah sebuah library atau modul yang digunakan untuk mengelola dan me
 
 Namun sampai dokumen ini ditulis (3 July 2023) shorebird masih belum disupport, di official websitenya masih berstatus “[iOS launching July 2023](https://shorebird.dev/#newsletter)”. Namun berdasarkan informasi dari komunitas pihak shorebird akan merelease preview support iOS pada July ini dan akan launching sepenuhnya bersama fitur android pada bulan September mendatang.
 
-# INSTALASI
+# B. INSTALASI
 
 ## Install Shorebird
 
@@ -115,7 +115,7 @@ Dari pesan diatas menunjukan bahwa shorebird menemukan issue yaitu flutter belum
 
 Untuk menangani issue ini perlu dilakukan instalasi flutter secara global. Jika anda menggunakan FVM maka disarankan untuk menguninstal FVM.
 
-# ACCOUNT
+# C. ACCOUNT
 
 Ketika shorebird terlah terinstall, anda perlu membuat akun terlebih dahulu apa bila memiliki akun di shorebird. 
 
